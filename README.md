@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furqan
 - 👀 I’m interested in software development and web development.
-- 🌱 I’m currently learning MERN.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me furqansh.2oo6@gmail.com
 - 😄 Pronouns: 
